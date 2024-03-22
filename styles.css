@@ -18,6 +18,11 @@ li{
     list-style-type: none;
 }
 
+
+a{
+    text-decoration: none;
+}
+
 .main{
     background-color: white;
     padding: 50px;
@@ -29,6 +34,7 @@ li{
 h2{
     text-align: center;
 }
+
 .player_one{
     background-color: rgb(255, 255, 255); 
     padding: 10px; 
@@ -39,5 +45,4 @@ h2{
     background-color: rgb(255, 255, 255); 
     padding: 10px; 
     border-radius: 10px
-}
 }
